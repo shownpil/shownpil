@@ -1,5 +1,5 @@
 
-# SHONPIL Developer Profile
+# SHOWNPIL Developer Profile
 
 **Personal Developer | Project Creator**
 
@@ -12,10 +12,10 @@
 
 | Project | Description | Status |
 |---|---|---|
-| SHONPIL URL | URL 단축 및 사용자 관리 서비스 | In Development |
-| SHONPIL MONEY | 금융 기록 관리 앱 | In Development |
-| SHONPIL APP LOCK | Windows 앱 잠금 프로그램 | In Development |
-| SHONPIL WEBMAIL | 웹메일 구축 | In Development |
+| SHOWNPIL URL | URL 단축 및 사용자 관리 서비스 | In Development |
+| SHOWNPIL MONEY | 금융 기록 관리 앱 | In Development |
+| SHOWNPIL APP LOCK | Windows 앱 잠금 프로그램 | In Development |
+| SHOWNPIL WEBMAIL | 웹메일 구축 | In Development |
 
 ## 🛠️ Skills & Technologies
 
@@ -55,4 +55,4 @@
 
 ---
 
-© SHONPIL
+© SHOWNPIL
