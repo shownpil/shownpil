@@ -3,7 +3,7 @@
 
 **Personal Developer | Project Creator**
 
-나만의 아이디어를 웹 서비스, 애플리케이션, 서버로 구현하고
+아이디어를 웹 서비스, 애플리케이션, 서버로 구현하고
 개발 과정과 기술 학습 기록을 관리합니다.
 
 ---
@@ -13,22 +13,21 @@
 | Project | Description | Status |
 |---|---|---|
 | SHONPIL URL | URL 단축 및 사용자 관리 서비스 | In Development |
-| SHONPIL MONEY | 개인 금융 기록 관리 앱 | In Development |
+| SHONPIL MONEY | 금융 기록 관리 앱 | In Development |
 | SHONPIL APP LOCK | Windows 앱 잠금 프로그램 | In Development |
-| SHONPIL WEBMAIL | 개인 도메인 웹메일 구축 | In Development |
+| SHONPIL WEBMAIL | 웹메일 구축 | In Development |
 
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
-- JavaScript
 - HTML
 - CSS
+- JavaScript
 - C#
 - SQL
 
 ### Frameworks & Tools
 - Node.js
-- Express
 - Supabase
 - PostgreSQL
 - Git & GitHub
